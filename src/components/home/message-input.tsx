@@ -64,15 +64,15 @@ const MessageInput = () => {
 							size={"sm"}
 							className='bg-transparent text-foreground hover:bg-transparent'
 						>
-							<Send />
+							<Send className="text-green-500" />
 						</Button>
 					) : (
 						<Button
-							type='submit'
+							type='reset'
 							size={"sm"}
-							className='bg-transparent text-foreground hover:bg-transparent disabled'
+							className='bg-transparent text-foreground hover:bg-transparent opacity-50 cursor-not-allowed'
 						>
-							<Mic />
+							<Mic className="text-red-500" />
 						</Button>
 					)}
 				</div>
