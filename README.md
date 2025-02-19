@@ -1,5 +1,5 @@
 <a href="https://youtu.be/sQ1zvdS8eU8">
-  <img alt="AI-powered WhatsApp." src="https://i.ibb.co/YcWpZ5F/Screenshot-24.png">
+  <img alt="AI-powered WhatsApp." src="https://user-images.githubusercontent.com/44744039/224526456-40c82430-70cb-44e3-82ac-182efde8255f.png">
   <h1 align="center">AI Powered WhatsApp Clone</h1>
 </a>
 
